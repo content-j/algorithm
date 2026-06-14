@@ -14,9 +14,7 @@ public class Main {
                 if(j % 2 == 0){
                     sum+=j;
                 }
-
             }
-
             System.out.println(sum);
         }
         sc.close();
