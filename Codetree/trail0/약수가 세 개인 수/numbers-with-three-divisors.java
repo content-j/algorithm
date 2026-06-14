@@ -8,8 +8,6 @@ public class Main {
         sc.close();
 
         int cnt = 0;
-
-
         for(int i = start; end >= i; i++){
             int divisor = 1;
             for(int j = 2; i >= j; j++){
